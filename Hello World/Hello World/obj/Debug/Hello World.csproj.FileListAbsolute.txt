@@ -1,0 +1,6 @@
+F:\Documents\Programs\Lanugages\C#\Hello World\Hello World\bin\Debug\Hello World.exe
+F:\Documents\Programs\Lanugages\C#\Hello World\Hello World\bin\Debug\Hello World.pdb
+F:\Documents\Programs\Lanugages\C#\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+F:\Documents\Programs\Lanugages\C#\Hello World\Hello World\obj\Debug\Hello World.exe
+F:\Documents\Programs\Lanugages\C#\Hello World\Hello World\obj\Debug\Hello World.pdb
+F:\Documents\Programs\Lanugages\C#\Hello World\Hello World\obj\Debug\Hello World.csprojAssemblyReference.cache
